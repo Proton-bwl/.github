@@ -20,10 +20,12 @@ Proton is a yield optimization platform specifically designed for the Neutron ec
 - Visit Frontend Repo
   https://github.com/Pro-TON/Proton_Frontend //링크필요
 ### Server
-- Web Application, Client part of the project.
-- Created using React JS
-- Visit Frontend Repo
+- Server part of the project, contains a Telegram bot.
+- Created using Express JS
+- Visit Telegram Bot Server Repo
   https://github.com/Pro-TON/Proton_Frontend //링크필요
+## Access Bot
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
