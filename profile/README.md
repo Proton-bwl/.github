@@ -1,7 +1,11 @@
 # Proton
 ## A hybrid DeFi platform in Neutron network
-![Frame 427321624](https://github.com/user-attachments/assets/2e44104f-833f-440c-83de-e1f222e5d310)<!--
-## Proton
+![Frame 427321624](https://github.com/user-attachments/assets/2e44104f-833f-440c-83de-e1f222e5d310)
+## What is Proton?
+Proton is a yield optimization platform specifically designed for the Neutron ecosystem, leveraging arbitrage-tradebot solutions to maximize returns. It primarily integrates with decentralized finance (DeFi) protocols within the Neutron ecosystem, aiming to provide users with optimized returns while simultaneously enhancing the ecosystem's security and activation.
+## How to use
+
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
