@@ -11,13 +11,13 @@ Proton is a yield optimization platform specifically designed for the Neutron ec
 - NFT collection, item and Core Proton Smart Contracts
 - Written in Tact and Func
 - Developed using the Blueprint framework
-- **Visit Contract Repo**(https://github.com/Proton-bwl/Proton_Frontend)  
+- [**Visit Contract Repo**](https://github.com/Proton-bwl/Proton_Frontend)  
 ### Frontend
 - Web Application, Client part of the project.
 - Created using React JS
-- Visit Frontend Repo(https://github.com/Proton-bwl/Proton_Frontend)
+- [Visit Frontend Repo](https://github.com/Proton-bwl/Proton_Frontend)
 ### Backend
-- Visit Frontend Repo(https://github.com/Proton-bwl/Proton_Backend)
+- [Visit Backend Repo](https://github.com/Proton-bwl/Proton_Backend)
 ### Server
 - **In progress**
 - Server part of the project, contains a Telegram bot.
