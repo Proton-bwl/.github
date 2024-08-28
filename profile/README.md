@@ -4,7 +4,7 @@
 ## What is Proton?
 Proton is a yield optimization platform specifically designed for the Neutron ecosystem, leveraging arbitrage-tradebot solutions to maximize returns. It primarily integrates with decentralized finance (DeFi) protocols within the Neutron ecosystem, aiming to provide users with optimized returns while simultaneously enhancing the ecosystem's security and activation.
 ## How to use
-- Read this paper(https://www.notion.so/blockwavelabs/d764923ea9e5492b93829af5374da7dd?v=08b3d567cdda467198d7ec8a5359ac44).
+- Read this [paper](https://www.notion.so/blockwavelabs/d764923ea9e5492b93829af5374da7dd?v=08b3d567cdda467198d7ec8a5359ac44)
 - Architecture&Appendix
 - Demo Video
 ## Project Structure
