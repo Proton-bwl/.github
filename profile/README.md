@@ -13,8 +13,17 @@ Proton is a yield optimization platform specifically designed for the Neutron ec
 - Written in Tact and Func
 - Developed using the Blueprint framework
 - Visit Contract Repo
-  https://github.com/Pro-TON/Proton_Contracts
-**Here are some ideas to get you started:**
+  https://github.com/Pro-TON/Proton_Contracts //링크필요
+### Frontend
+- Web Application, Client part of the project.
+- Created using React JS
+- Visit Frontend Repo
+  https://github.com/Pro-TON/Proton_Frontend //링크필요
+### Server
+- Web Application, Client part of the project.
+- Created using React JS
+- Visit Frontend Repo
+  https://github.com/Pro-TON/Proton_Frontend //링크필요
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
