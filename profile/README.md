@@ -1,9 +1,7 @@
 # Proton
+## A hybrid DeFi platform in Neutron network
+![Frame 427321624](https://github.com/user-attachments/assets/2e44104f-833f-440c-83de-e1f222e5d310)<!--
 ## Proton
-![Frame 427321624](https://github.com/user-attachments/assets/2e44104f-833f-440c-83de-e1f222e5d310)
-
-<!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
