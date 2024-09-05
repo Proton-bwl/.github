@@ -1,4 +1,4 @@
-![Frame 427321624](https://github.com/user-attachments/assets/139c400e-e407-419c-8b00-9478ceaba56b)# Proton
+
 ## A hybrid DeFi platform in Neutron network
 ![Frame 427321624](https://github.com/user-attachments/assets/2e44104f-833f-440c-83de-e1f222e5d310)
 ## What is Proton?
