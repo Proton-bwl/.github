@@ -1,4 +1,4 @@
-# Proton
+![Frame 427321624](https://github.com/user-attachments/assets/139c400e-e407-419c-8b00-9478ceaba56b)# Proton
 ## A hybrid DeFi platform in Neutron network
 ![Frame 427321624](https://github.com/user-attachments/assets/2e44104f-833f-440c-83de-e1f222e5d310)
 ## What is Proton?
@@ -11,13 +11,13 @@ Proton is a yield optimization platform specifically designed for the Neutron ec
 - NFT collection, item and Core Proton Smart Contracts
 - Written in Tact and Func
 - Developed using the Blueprint framework
-- [**Visit Contract Repo**](https://github.com/Proton-bwl/Proton_Frontend)  
+- [**Visit Contract Repo**](https://github.com/Ripple-QVE/Ripple-QVE_frontend)
 ### Frontend
 - Web Application, Client part of the project.
 - Created using React JS
-- [Visit Frontend Repo](https://github.com/Proton-bwl/Proton_Frontend)
+- [Visit Frontend Repo](https://github.com/Ripple-QVE/Ripple-QVE_frontend)
 ### Backend
-- [Visit Backend Repo](https://github.com/Proton-bwl/Proton_Backend)
+- [Visit Backend Repo](https://github.com/Ripple-QVE/Ripple-QVE_backend)
 ### Server
 - **In progress**
 - Server part of the project, contains a Telegram bot.
